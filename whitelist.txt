@@ -1,1 +1,2 @@
 b.hatena.ne.jp
+*.melgeek.com
