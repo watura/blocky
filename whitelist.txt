@@ -1,2 +1,3 @@
 b.hatena.ne.jp
 *.melgeek.com
+*.hoiku-shien.jp
