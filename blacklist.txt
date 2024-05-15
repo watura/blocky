@@ -2,3 +2,4 @@
 0.0.0.0 *.googlesyndication.com
 0.0.0.0 *.cxense.com
 0.0.0.0 *.iid.jp
+0.0.0.0 *.valuecommerce.com
