@@ -1,5 +1,5 @@
-0.0.0.0 *.fireworktv.com
-0.0.0.0 *.googlesyndication.com
-0.0.0.0 *.cxense.com
-0.0.0.0 *.iid.jp
-0.0.0.0 *.valuecommerce.com
+*.fireworktv.com
+*.googlesyndication.com
+*.cxense.com
+*.iid.jp
+*.valuecommerce.com
