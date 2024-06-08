@@ -3,3 +3,4 @@
 *.cxense.com
 *.iid.jp
 *.valuecommerce.com
+*.stripst.com
