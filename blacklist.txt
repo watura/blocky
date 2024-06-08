@@ -4,3 +4,4 @@
 *.iid.jp
 *.valuecommerce.com
 *.stripst.com
+*.wcdnga.com
