@@ -2,3 +2,4 @@
 *.melgeek.com
 *.hoiku-shien.jp
 b.hatena.ne.jp
+*.fc2.com
