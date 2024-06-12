@@ -6,7 +6,6 @@
 *.stripst.com
 *.wcdnga.com
 superchat.live
-*.dsp.bance.jp
 *.sacdnssedge.com
 *.cdn77.org
 *.bbrdbr.com
