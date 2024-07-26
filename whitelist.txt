@@ -2,5 +2,6 @@
 *.melgeek.com
 *.hoiku-shien.jp
 b.hatena.ne.jp
+static.line-scdn.net
 *.fc2.com
 f.kunitachi.hoiku-shien.jp
