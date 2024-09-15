@@ -12,3 +12,8 @@ superchat.live
 *.bance.jp
 *.gain-ads.com
 ad.dynalyst.jp
+*.ladsp.com
+*.cartajp.com
+*.criteo.com
+*.yieldmo.com
+*.smaato.net
