@@ -17,3 +17,4 @@ ad.dynalyst.jp
 *.criteo.com
 *.yieldmo.com
 *.smaato.net
+*.outbrain.org
