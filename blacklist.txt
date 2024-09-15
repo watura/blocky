@@ -11,3 +11,4 @@ superchat.live
 *.bbrdbr.com
 *.bance.jp
 *.gain-ads.com
+ad.dynalyst.jp
