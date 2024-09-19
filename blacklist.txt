@@ -31,3 +31,5 @@ adroute.public.ilb.jp-east-2.idcfcloud.net
 *.clarity.ms
 *.outbrain.com
 outbrain.map.fastly.net
+*.popin.cc
+*.doubleclick.net
