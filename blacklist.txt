@@ -29,3 +29,4 @@ adroute.public.ilb.jp-east-2.idcfcloud.net
 *.tiktokcdn.com.akamaized.net
 *.tiktok.com.edgesuite.net
 *.clarity.ms
+*.outbrain.com
