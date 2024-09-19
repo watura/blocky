@@ -30,3 +30,4 @@ adroute.public.ilb.jp-east-2.idcfcloud.net
 *.tiktok.com.edgesuite.net
 *.clarity.ms
 *.outbrain.com
+outbrain.map.fastly.net
