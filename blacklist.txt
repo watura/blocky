@@ -21,4 +21,7 @@ ad.dynalyst.jp
 *.focas.jp
 *.line-apps.com.akadns.net
 *.lmadps.jp
-adroute.public.ilb.jp-east-2.idcfcloud.net.
+adroute.public.ilb.jp-east-2.idcfcloud.net
+*.adsappier.com.akamaized.net
+*.adsappier.com
+
