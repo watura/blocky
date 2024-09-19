@@ -18,3 +18,7 @@ ad.dynalyst.jp
 *.yieldmo.com
 *.smaato.net
 *.outbrain.org
+*.focas.jp
+*.line-apps.com.akadns.net
+*.lmadps.jp
+adroute.public.ilb.jp-east-2.idcfcloud.net.
