@@ -28,12 +28,8 @@ adroute.public.ilb.jp-east-2.idcfcloud.net
 *.adsappier.com.akamaized.net
 *.adsappier.com
 *.genieesspv.jp
-*.tiktokv.com
-*.tiktokcdn.com.akamaized.net
-*.tiktok.com.edgesuite.net
 *.clarity.ms
 *.outbrain.com
 outbrain.map.fastly.net
 *.popin.cc
 *.doubleclick.net
-*.wac.edgecastcdn.net
