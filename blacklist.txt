@@ -1,3 +1,6 @@
+spadsync.com
+*.amazon-adsystem.com
+*.adsensecustomsearchads.com
 *.fireworktv.com
 *.googlesyndication.com
 *.cxense.com
