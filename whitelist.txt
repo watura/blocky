@@ -4,3 +4,4 @@
 b.hatena.ne.jp
 static.line-scdn.net
 f.kunitachi.hoiku-shien.jp
+note.com
