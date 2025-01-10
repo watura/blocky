@@ -33,3 +33,4 @@ adroute.public.ilb.jp-east-2.idcfcloud.net
 outbrain.map.fastly.net
 *.popin.cc
 *.doubleclick.net
+*.adtrafficquality.google
